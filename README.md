@@ -1,4 +1,4 @@
-# A Universal Approach to Equivariant Representation Learning
+# Equivariant Representation Learning and Class-Pose Separation
 
 ## Setup
 
